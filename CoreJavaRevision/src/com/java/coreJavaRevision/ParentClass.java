@@ -8,6 +8,6 @@ public class ParentClass {
 	 
 	 public static void main(String args[]) {
 		
-//		 ParentClass parent = new ParentClass("Parent Value");
+		 ParentClass parent = new ParentClass("Parent Value");
 	 }
 }
